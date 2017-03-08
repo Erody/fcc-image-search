@@ -1,0 +1,19 @@
+{
+  "name": "image-search",
+  "version": "1.0.0",
+  "description": "searches for images",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erody/fcc-image-search.git"
+  },
+  "author": "Immo Struchholz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erody/fcc-image-search/issues"
+  },
+  "homepage": "https://github.com/Erody/fcc-image-search#readme"
+}
