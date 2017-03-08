@@ -63,7 +63,6 @@ MongoClient.connect(dbUrl, (err, db) => {
 				results.push(item);
 				if(i+1 === arr.length) {
 					res.json(results);
-					db.close();
 				}
 			})
 		});
